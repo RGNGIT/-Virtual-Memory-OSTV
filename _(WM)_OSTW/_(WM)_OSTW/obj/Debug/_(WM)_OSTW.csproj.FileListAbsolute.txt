@@ -1,0 +1,10 @@
+H:\_(WM)_OSTW\_(WM)_OSTW\bin\Debug\_(WM)_OSTW.exe.config
+H:\_(WM)_OSTW\_(WM)_OSTW\bin\Debug\_(WM)_OSTW.exe
+H:\_(WM)_OSTW\_(WM)_OSTW\bin\Debug\_(WM)_OSTW.pdb
+H:\_(WM)_OSTW\_(WM)_OSTW\obj\Debug\_(WM)_OSTW.csprojAssemblyReference.cache
+H:\_(WM)_OSTW\_(WM)_OSTW\obj\Debug\__WM__OSTW.Form1.resources
+H:\_(WM)_OSTW\_(WM)_OSTW\obj\Debug\__WM__OSTW.Properties.Resources.resources
+H:\_(WM)_OSTW\_(WM)_OSTW\obj\Debug\_(WM)_OSTW.csproj.GenerateResource.cache
+H:\_(WM)_OSTW\_(WM)_OSTW\obj\Debug\_(WM)_OSTW.csproj.CoreCompileInputs.cache
+H:\_(WM)_OSTW\_(WM)_OSTW\obj\Debug\_(WM)_OSTW.exe
+H:\_(WM)_OSTW\_(WM)_OSTW\obj\Debug\_(WM)_OSTW.pdb
